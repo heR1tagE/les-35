@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: 'MyFont';
+    src: url('../assets/fonts/custom-font.ttf') format('truetype');
+  }
+  
+  body {
+    font-family: 'MyFont', sans-serif;
+  }
+  
+  .hello {
+    color: red;
+    background: url('../assets/images/logo.png');
+  }
